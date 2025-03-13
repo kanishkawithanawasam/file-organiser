@@ -30,7 +30,7 @@ def target_dirs():
 
 def root_dirs():
     thisFile=os.path.dirname(__file__)
-    path=os.path.join(os.path.abspath(thisFile),'editable_files','directories.txt')
+    path=os.path.join(os.path.abspath(thisFile),'root_directories','directories.txt')
     with open(path,"r") as f:
         dirList=f.read().splitlines()
     files=[]
