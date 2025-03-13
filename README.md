@@ -20,9 +20,7 @@ This is a file organiser software developed using python. The software can organ
 
 **Operating System (OS) Compatibility**
 
-- Windows 10/11
-- Linux (Ubuntu, Fedora, Debian, etc.)
-- macOS (10.15+ Catalina and later)
+- Windows 10/11]
 
 ### Installation and usage
 
