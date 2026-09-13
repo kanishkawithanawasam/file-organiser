@@ -4,20 +4,6 @@
 
 This is a file organiser software developed using python. The software can organise your files in the categories of PDF FILES, WORD DOCUMENTS, SPREAD SHEETS, PRESENTATION FILES, AUDIO FILES, VIDEO FILES, ZIP files and OTHER FILES. Also, this software organise files on the last modified month after categorising under filetype.
 
-### Compatibility 
-
-**Hardware Requirements**
-
-- Processor (CPU):
-  - Minimum: Dual-core processor (Intel i3 / AMD Ryzen 3)
-  - Recommended: Quad-core processor (Intel i5/i7 or AMD Ryzen 5/7)
-- Memory (RAM):
-  - Minimum: 4GB RAM
-  - Recommended: 8GB or more (for handling large directories efficiently)
-- Storage:
-  - Minimum: 10GB free disk space (depends on the number and size of files)
-  - Recommended: SSD with 50GB+ free space (for faster file operations)
-
 **Operating System (OS) Compatibility**
 
 - Windows 10/11]
